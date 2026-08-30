@@ -3,8 +3,6 @@ Application principale - Clone de NotebookLM local.
 Étapes 1 à 4 du TP.
 
 Lancer avec : streamlit run app.py
-Prérequis   : ollama doit tourner en tâche de fond (ollama serve),
-              avec un modèle déjà téléchargé (ex: ollama pull mistral).
 """
 
 import os
